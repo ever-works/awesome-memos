@@ -6,6 +6,7 @@ Collection of the best memos, each featuring an image and descriptions covering 
 ## 📑 Table of Contents
 
 - [Memos (101)](#memos)
+- [Historical Document (1)](#historical-document)
 - [Memo Templates (20)](#memo-templates)
 
 
@@ -112,6 +113,10 @@ Collection of the best memos, each featuring an image and descriptions covering 
 - [Zero-defects code](https://www.alexanderjarvis.com/zero-defects-code/) - Memo by Chris Mason at Microsoft advocating for code with no bugs, emphasizing quality in software development. It promotes rigorous testing and standards. This internal push aimed to elevate engineering practices. ([Read more](/details/zero-defects-code.md)) `Microsoft` `Software` `Quality`
 - [Zuckerberg on VR/AR as the platform of the future](https://www.scribd.com/document/399594551/2015-06-22-MARK-S-VISION) - In this June 2015 memo, Mark Zuckerberg argues that virtual and augmented reality will be the next critical computing platform. He contends that Facebook must control at least two of the three core components (hardware, software/app, OS) to succeed, noting that in mobile Facebook only owned the app layer and depended on Apple and Google for hardware and OS. He justifies massive investment in VR/AR as necessary given the high stakes. ([Read more](/details/zuckerberg-vr-ar-platform-future.md)) `Facebook` `VR/AR` `2015`
 - [Zynga Copycat Strategy memo](https://www.alexanderjarvis.com/zynga-copycat-strategy-memo/) - Memo by Zynga CEO Mark Pincus justifying their strategy of rapidly iterating and copying successful game mechanics from competitors. It defends being the best executor rather than original innovator. This candid internal view explains Zynga's growth in social gaming. ([Read more](/details/zynga-copycat-strategy-memo.md)) `Zynga` `Strategy` `Gaming`
+
+## Historical Document
+
+- [Powell Memorandum](https://biotech.law.lsu.edu/blog/powell-memo.pdf) - A confidential memorandum dated August 23, 1971, written by Lewis F. Powell Jr. (later a Supreme Court Justice) for the U.S. Chamber of Commerce. The memo analyzed perceived attacks on the American free enterprise system from campuses, media, intellectuals, and politicians, and recommended organized business counteraction through scholarship, speaker bureaus, textbook evaluation, and media engagement. ([Read more](/details/powell-memorandum.md)) `1971` `Lewis Powell` `Chamber of Commerce` `free enterprise`
 
 ## Memo Templates
 
