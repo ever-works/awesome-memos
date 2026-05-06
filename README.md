@@ -6,8 +6,9 @@ Collection of the best memos, each featuring an image and descriptions covering 
 ## 📑 Table of Contents
 
 - [Memos (101)](#memos)
-- [Historical Document (1)](#historical-document)
+- [Historical Document (3)](#historical-document)
 - [Memo Templates (20)](#memo-templates)
+- [Memos (1)](#memos-1)
 
 
 ## Memos
@@ -116,6 +117,8 @@ Collection of the best memos, each featuring an image and descriptions covering 
 
 ## Historical Document
 
+- [Apple's 8-Sentence Memo on Eliminating Typewriters (1981)](https://www.inc.com/bill-murphy-jr/apple-sent-this-8-sentence-memo-to-its-top-people-39-years-ago-results-were-game-changing-and-yes-you-should-copy-it.html) - This historic eight-sentence memo, issued by Apple CEO Michael Scott in October 1981, banned the purchase or lease of typewriters at Apple and mandated the use of word processing technology. The memo reflects Apple's commitment to innovation and internal adoption of new technologies before promoting them to customers. It is cited as a game-changing decision that helped shape Apple's culture of embracing cutting-edge tools. ([Read more](/details/apples-8-sentence-memo-on-eliminating-typewriters-1981.md)) `Apple` `Historical` `Innovation`
+- [Mary Shelley's Frankenstein Notebook](https://www.courant.com/2020/01/16/the-most-famous-handwritten-documents-throughout-history/) - The quintessential tale of a maligned monster originally took shape from horror stories swapped between Mary Shelley, her husband Percy Bysshe Shelley, and their friend Lord Byron on a dark and stormy night. Shelley originally penned the tale in a collection of notebooks, which are now available in high quality on the Shelley-Godwin Archive. ([Read more](/details/mary-shelleys-frankenstein-notebook.md)) `Literature` `Manuscript` `19th Century`
 - [Powell Memorandum](https://biotech.law.lsu.edu/blog/powell-memo.pdf) - A confidential memorandum dated August 23, 1971, written by Lewis F. Powell Jr. (later a Supreme Court Justice) for the U.S. Chamber of Commerce. The memo analyzed perceived attacks on the American free enterprise system from campuses, media, intellectuals, and politicians, and recommended organized business counteraction through scholarship, speaker bureaus, textbook evaluation, and media engagement. ([Read more](/details/powell-memorandum.md)) `1971` `Lewis Powell` `Chamber of Commerce` `free enterprise`
 
 ## Memo Templates
@@ -140,6 +143,10 @@ Collection of the best memos, each featuring an image and descriptions covering 
 - [White Minimalist General Memo](https://www.canva.com/templates/EADao29y2OA-white-minimalist-general-memo/) - Minimalist white Canva template for general business memos. Designed for simplicity and professionalism, it focuses on clear content delivery without distractions. Suitable for any business context within Canva's memo template collection. ([Read more](/details/white-minimalist-general-memo.md)) `Minimalist` `General` `White`
 - [White Minimalist Lined Paper Memo](https://www.canva.com/templates/EAExxTleZd4-white-minimalist-lined-paper-memo/) - Canva Pro template mimicking white lined paper for a minimalist memo look. Ideal for note-like business memos requiring a traditional feel. Part of Canva's professional design resources. ([Read more](/details/white-minimalist-lined-paper-memo.md)) `Minimalist` `Lined Paper` `Pro`
 - [Yellow Globe Icon Corporate Memo](https://www.canva.com/templates/EADaijXEXAw-yellow-globe-icon-corporate-memo/) - Canva corporate memo template highlighted by a yellow globe icon, suggesting global business focus. Ideal for international companies needing professional memos. Customizable within Canva's business template offerings. ([Read more](/details/yellow-globe-icon-corporate-memo.md)) `Corporate` `Globe` `Yellow`
+
+## Memos
+
+- [Howard Marks’ Iconic Memos](https://www.moaf.org/news/press_releases/2025-10-14-howard-marks-iconic-memos-join-permanent-collection-at-the-museum-of-american-finance) - A complete bound set of Howard Marks' memos, inscribed by the author, donated to the Museum of American Finance in honor of the 35th anniversary of his first memo. The collection represents approximately 160 public memos written since 1990, offering candid commentary on market environments and regarded as influential writings in modern finance. ([Read more](/details/howard-marks-iconic-memos.md)) `Finance` `Investment` `Historical`
 
 
 ## ™️ Legal
