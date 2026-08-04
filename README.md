@@ -154,6 +154,10 @@ Collection of the best memos, each featuring an image and descriptions covering 
 - [Howard Marks’ Iconic Memos](https://www.moaf.org/news/press_releases/2025-10-14-howard-marks-iconic-memos-join-permanent-collection-at-the-museum-of-american-finance) - A complete bound set of Howard Marks' memos, inscribed by the author, donated to the Museum of American Finance in honor of the 35th anniversary of his first memo. The collection represents approximately 160 public memos written since 1990, offering candid commentary on market environments and regarded as influential writings in modern finance. ([Read more](/details/howard-marks-iconic-memos.md)) `Finance` `Investment` `Historical`
 
 
+## ⭐ Star History
+
+[![Star History Chart](https://stats-github.ever.works/svg?repos=ever-works/awesome-memos&type=Date)](https://stats-github.ever.works/#ever-works/awesome-memos&Date)
+
 ## ™️ Legal
 
 All product names, logos, and brands are the property of their respective owners. All company, product, and service names used in this repository, related repositories, and associated websites are for identification purposes only. The use of these names, logos, and brands does not imply endorsement, affiliation, or sponsorship.
